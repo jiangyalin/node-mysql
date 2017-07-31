@@ -1,8 +1,9 @@
 // mysql配置文件
 const config = {
   database: 'test',
-  username: 'admin',
+  username: 'root',
   password: '123456',
+  host: 'localhost',
   port: 3306
 };
 
